@@ -18,7 +18,6 @@ let town = prompt()
 
 alert('what is your river/ocean/lake/bay-harbour?')
 let river = prompt()
-
   // more questions and answers here
 
   alert('Your mihi:')
